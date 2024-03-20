@@ -1,0 +1,9 @@
+a gente nao tem uma definição tecnica sobre inteligencia.
+
+chat gpt não é uma inteligencia articifical. é um gerador de texto glorificado.
+
+
+pip install DateTime
+
+
+mes_atual = data_atual.strftime("%b %Y").upper()
