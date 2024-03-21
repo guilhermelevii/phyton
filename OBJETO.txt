@@ -1,0 +1,5 @@
+primeiro vc criar a CLASSE
+
+ela transforma em um objeto
+
+E o OBJETO faz uma AÇÃO
