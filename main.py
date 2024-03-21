@@ -1,3 +1,5 @@
+# ALGUNS EXEMPLOS DE EXERCICOS EM PYTHON
+
 qtdade_pepsi = 130
 preco_pepsi = 1.50
 print(qtdade_pepsi * preco_pepsi)
@@ -13,3 +15,7 @@ faturamento = 100
 custo = 80
 lucro = faturamento - custo
 print(lucro)
+
+nome = input('qual seu nome?')
+sobrenome = input('qual seu segundo nome?')
+print(nome + ' ' + sobrenome) #  (' ') significa espaço vazio.
