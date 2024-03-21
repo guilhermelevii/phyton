@@ -1,4 +1,3 @@
-qtde_vendas = 1600
-nome = 'Guilherme'
-print(nome)
-print(qtde_vendas)
+nome = input('qual seu nome?')
+sobrenome = input('qual seu segundo nome?')
+print(nome + ' ' + sobrenome) #  (' ') significa espaço vazio.
