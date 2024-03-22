@@ -5,7 +5,7 @@ Vodka_Smirnoff = 'BAC17675002'
 codigo = input('Qual é o CODIGO da bebida? (INSIRA TUDO EM LETRA MAIUSCULA)')
 print('BAC' in codigo)
 if  codigo == 'BAC':
-    print('BEBIDA  ALCOÓLICA')
+    print('BEBIDA  ALCOÓLICA USE COM MODERAÇÃO')
 else:
     print('CUIDADO COM O AÇUCAR')
 
