@@ -14,4 +14,4 @@ lucro = faturamento - custo
 print('O meu custo foi de ' + ' ' + str(custo))
 print('O meu faturamento foi de' + ' ' + str(faturamento))
 print('O meu lucro foi de ' + ' ' + str(lucro))
-print('A margem foi de ' + ' ' + str(lucro / faturamento))
+print('A margem foi de ' + ' ' + str(lucro / faturamento))   
