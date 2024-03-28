@@ -7,5 +7,5 @@ print('BAC' in codigo)
 if  codigo == 'BAC':
     print('BEBIDA  ALCOÓLICA USE COM MODERAÇÃO')
 else:
-    print('CUIDADO COM O AÇUCAR')
+    print('CUIDADO COM O AÇUCARRRRRRRRRR')
 
